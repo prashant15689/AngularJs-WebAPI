@@ -1,0 +1,21 @@
+<app-header></app-header>
+  <h1 class="text-center" style="margin: 100px auto">
+    Welcome to Prashant Foundation!
+  </h1>
+<div class="main-container">
+  <table class="table table-bordered table-background" style="background: #FFF">
+    <tr>
+      <th scope="col">User ID</th>
+      <th scope="col">Name</th>
+      <th scope="col">Email</th>
+      <th scope="col">Phone Number</th>
+    </tr>
+    <tr *ngFor="let item of users">
+      <td>{{ item.userId }}</td>
+      <td>{{ item.name }}</td>
+      <td>{{ item.email }}</td>
+      <td>{{ item.phoneNumber }}</td>
+    </tr>
+  </table>
+</div>
+<app-footer></app-footer>
