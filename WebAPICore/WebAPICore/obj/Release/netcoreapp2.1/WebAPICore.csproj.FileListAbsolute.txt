@@ -1,0 +1,14 @@
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\bin\Release\netcoreapp2.1\WebAPICore.deps.json
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\bin\Release\netcoreapp2.1\WebAPICore.runtimeconfig.json
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\bin\Release\netcoreapp2.1\WebAPICore.runtimeconfig.dev.json
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\bin\Release\netcoreapp2.1\WebAPICore.dll
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\bin\Release\netcoreapp2.1\WebAPICore.pdb
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\obj\Release\netcoreapp2.1\WebAPICore.csproj.CoreCompileInputs.cache
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\obj\Release\netcoreapp2.1\WebAPICore.RazorAssemblyInfo.cache
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\obj\Release\netcoreapp2.1\WebAPICore.RazorAssemblyInfo.cs
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\obj\Release\netcoreapp2.1\WebAPICore.AssemblyInfoInputs.cache
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\obj\Release\netcoreapp2.1\WebAPICore.AssemblyInfo.cs
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\obj\Release\netcoreapp2.1\WebAPICore.RazorTargetAssemblyInfo.cache
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\obj\Release\netcoreapp2.1\WebAPICore.dll
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\obj\Release\netcoreapp2.1\WebAPICore.pdb
+D:\Prashant\AngularDemo\WebAPICore\WebAPICore\obj\Release\netcoreapp2.1\WebAPICore.csprojAssemblyReference.cache
